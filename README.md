@@ -54,3 +54,10 @@ npm i discord.js ascii-table
 # 4. Start the bot
 node index.js
 ```
+## Screenshot
+
+![Bot Screenshot](assets/images/daily.jpg)
+![Bot Screenshot](assets/images/give.jpg)
+![Bot Screenshot](assets/images/leaderBoard.jpg)
+![Bot Screenshot](assets/images/shopList.jpg)
+![Bot Screenshot](assets/images/wallet.jpg)
